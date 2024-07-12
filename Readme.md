@@ -10,6 +10,8 @@ cd hello-from-git // change directory - it will take you to the folder which you
 
 git init // Initialize a repository
 
+create file and add some data inside the file 
+
 git status // it will check the status
 
 git add . // It will add files to the stating area 

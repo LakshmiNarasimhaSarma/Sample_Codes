@@ -1,5 +1,5 @@
 "AWSTemplateFormatVersion" : "2010-09-09"
-"Description" : "Creating Ec2 Instance"
+"Description" : "Creating Ec2 Instance for CloudFormation"
 Resources:
   myInstance:
     Type: 'AWS::EC2::Instance'
