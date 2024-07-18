@@ -8,4 +8,7 @@ Adding Devops class
 
 Both AWS Devops classes
 
+Adding Devops class
 
+AWS sessions
+main
