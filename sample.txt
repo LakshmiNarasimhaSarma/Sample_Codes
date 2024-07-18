@@ -6,3 +6,6 @@ adding jagadish code
 
 Adding Devops class
 
+Both AWS Devops classes
+
+
